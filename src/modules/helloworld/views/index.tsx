@@ -4,10 +4,5 @@ export default function Helloworld() {
   useEffect(() => {
     store.text = "Hello World! This is 7INXIAL!";
   }, []);
-  return (
-    <div>
-      {_store.text}
-      <span className="iconfont icon-blue-crown"></span>
-    </div>
-  );
+  return <div>{_store.text}</div>;
 }
