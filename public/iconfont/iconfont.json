@@ -1,0 +1,23 @@
+{
+  "id": "3908088",
+  "name": "7INXIAL",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "4016497",
+      "name": "皇冠",
+      "font_class": "blue-crown",
+      "unicode": "e6a7",
+      "unicode_decimal": 59047
+    },
+    {
+      "icon_id": "34393045",
+      "name": "皇冠-copy",
+      "font_class": "red-crown",
+      "unicode": "e6a8",
+      "unicode_decimal": 59048
+    }
+  ]
+}

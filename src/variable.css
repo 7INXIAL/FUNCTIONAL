@@ -1,0 +1,13 @@
+/* 项目里的样式切换 */
+.iconfont {
+  font-size: 12px;
+}
+:root {
+  --color: #333333;
+  --background-color: #fff;
+}
+
+:root.helloworld {
+  --color: #ffffff;
+  --background-color: #000000;
+}
