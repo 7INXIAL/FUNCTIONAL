@@ -8,7 +8,7 @@
 
 ### 关键词
 
-`webpack` `react` `react-router-dom` `react-router-dom` `valtio` `antd`
+`webpack` `react` `react-router-dom` `axios` `valtio` `antd`
 
 ### 自动引入
 
