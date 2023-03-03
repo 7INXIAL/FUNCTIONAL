@@ -25,3 +25,7 @@
 ### 规范化
 
 `ESLint` `Prettier` `Husky` `Lint-staged`
+
+### TODO
+
+`国际化`
